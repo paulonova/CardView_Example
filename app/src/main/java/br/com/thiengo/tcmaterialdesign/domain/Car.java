@@ -1,8 +1,6 @@
 package br.com.thiengo.tcmaterialdesign.domain;
 
-/**
- * Created by viniciusthiengo on 4/5/15.
- */
+
 public class Car {
     private String model;
     private String brand;
