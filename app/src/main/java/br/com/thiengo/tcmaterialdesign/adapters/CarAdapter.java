@@ -25,9 +25,7 @@ import br.com.thiengo.tcmaterialdesign.domain.Car;
 import br.com.thiengo.tcmaterialdesign.extras.ImageHelper;
 import br.com.thiengo.tcmaterialdesign.interfaces.RecyclerViewOnClickListenerHack;
 
-/**
- * Created by viniciusthiengo on 4/5/15.
- */
+
 public class CarAdapter extends RecyclerView.Adapter<CarAdapter.MyViewHolder> {
     private Context mContext;
     private List<Car> mList;
